@@ -2,10 +2,9 @@
   "users": {
     "Fxghter": 8,
     "hyun0727": 8,
-    "EryTaii": 8,
     "FighterWithAnX": 8,
     "ruanpablocfalt": 7,
-    "WaitForRei": 7,
+    "EryTaii": 7,
     "3ckg": 7,
     "RedactedG7": 7,
     "niko5927": 7,
@@ -16,7 +15,6 @@
     "DaneluioNew": 5,
     "Megladonxd10hmm": 3,
     "Basically_fh": 3,
-    "azutastic": 3,
     "StriLorian": 3,
     "SadGoldyPuppetAlt": 3,
     "tyerslawer": 3,
@@ -31,6 +29,7 @@
     "Player4": 8
   },
   "restrictedstands": {
+    "1000343": 8,
     "666666": 8,
     "202024": 8,
     "12430": 8,
@@ -54,7 +53,6 @@
     "244": 7,
     "101": 7,
     "100": 7,
-    "99": 7,
     "85": 7,
     "325425": 5,
     "325422": 5,
@@ -66,6 +64,7 @@
     "1001": 5,
     "666": 5,
     "173": 5,
+    "99": 5,
     "67": 5,
     "6733": 2
   },
