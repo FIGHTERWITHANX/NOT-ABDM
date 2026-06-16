@@ -1,5 +1,9 @@
 {
   "users": {
+    "Player1": 8,
+    "Player2": 8,
+    "Player3": 8,
+    "Player4": 8,
     "Fxghter": 8,
     "hyun0727": 8,
     "FighterWithAnX": 8,
@@ -28,11 +32,7 @@
     "cornball1566": 2,
     "prisabIe": 2,
     "Creber67": 2,
-    "dansam29": 2,
-    "Player1": 8,
-    "Player2": 8,
-    "Player3": 8,
-    "Player4": 8
+    "dansam29": 2
   },
   "restrictedstands": {
     "1000343": 8,
